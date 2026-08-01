@@ -1,5 +1,8 @@
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Scikit-Learn
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+pydantic
